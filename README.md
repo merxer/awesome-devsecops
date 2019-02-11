@@ -4,3 +4,4 @@
 * [istio](https://istio.io/)
 * [kong](https://konghq.com/kong/)
 * [prometheus](https://prometheus.io/)
+* [fluentd](https://www.fluentd.org/)
