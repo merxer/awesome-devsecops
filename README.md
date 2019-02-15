@@ -8,3 +8,4 @@
 * [elasticsearch](https://www.elastic.co/)
 * [containerd](https://containerd.io/)
 * [jenkins](https://jenkins.io/)
+* [terraform](https://www.terraform.io/)
